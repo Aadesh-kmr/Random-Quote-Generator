@@ -1,0 +1,44 @@
+/* Reset some basic styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Center the content on the page */
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+  }
+  
+  .container {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #quote {
+    font-size: 20px;
+    font-style: italic;
+    margin: 20px 0;
+  }
+  
