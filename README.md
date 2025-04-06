@@ -1,5 +1,7 @@
-# project name---
-# Random-Quote-Generator
-# A Random Quote Generator is a tool that displays a new, randomly selected quote each time it's used. It provides users with inspiration, motivation, or entertainment by offering quotes from various sources like famous authors, philosophers, or celebrities. Simply click a button to generate a fresh quote!
-# soo Guys LIKE,COMMENTS & SHARE'S
-# THANKYOU...
+# Aadesh | Software Developer
+
+I am Aadesh, a passionate software developer with expertise in full-stack development, backend systems. I specialize in creating scalable, high-performance solutions using modern technologies.
+
+## 🚀 Notable Projects
+
+Thanks for visiting my profile!
